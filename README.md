@@ -1,5 +1,8 @@
 # my_app
 
+# run
+flutter run --release -d web-server --web-hostname=0.0.0.0 --web-port=3000
+
 A new Flutter project.
 
 ## Getting Started
